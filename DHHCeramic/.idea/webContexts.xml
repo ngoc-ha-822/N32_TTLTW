@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/editOrder.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/form-add-cate.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/form-add-san-pham.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/table-data-category.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/table-data-comment.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/table-data-customer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/table-data-log.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/view/table-data-user.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/account.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/landingPage.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/shop-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/shop-grid.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/view/shoping-cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client/view" />
+      </map>
+    </option>
+  </component>
+</project>

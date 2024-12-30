@@ -1,0 +1,114 @@
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+#welcome-ask{
+    background-color: #d5d4d3;
+    height: 300px;
+    margin-top: 80px;
+    padding-top:50px;
+}
+#welcome-ask h2{
+    color: #111111;
+    font-weight: bolder;
+}
+#welcome-ask h3{
+    font-weight: bolder;
+}
+#welcome-ask .container{
+    margin-top: 30px;
+}
+#welcome-ask .input-group{
+    margin: 15px auto;
+    margin-left: 350px;
+}
+#welcome-ask .input-group-prepend{
+    background-color: white;
+    padding:0 5px;
+}
+#welcome-ask .input-group-prepend i{
+    margin-top: 10px;
+}
+.fa-search {
+    color: #efac92;
+}
+.text-2 {
+    margin: 20px auto;
+}
+.text-2 h3{
+    text-align: center;
+}
+#welcome-ask input[type="text"]{
+    width: 400px;
+    height: 35px;
+    border: none;
+    /*margin: 15px;*/
+    border-radius: 4px;
+}
+#main-content .list-step{
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.panel-default {
+    border-color: #ddd;
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+.panel-title>a {
+    color: inherit;
+}
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: rgba(234, 206, 231, 0.3);
+    border: 1px solid #ddd;
+}
+.panel-group .panel-heading {
+    border-bottom: 0;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+.panel-body {
+    text-align: left;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+.panel-default>.panel-heading+.panel-collapse .panel-body {
+    border-top-color: #ddd;
+}
+.panel-group .panel-heading+.panel-collapse .panel-body {
+    border-top: 1px solid #ddd;
+}
+
